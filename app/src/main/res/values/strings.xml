@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppStreaming</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="t1">Incluido con Prime</string>
+    <string name="t2">Alquilar o comprar</string>
+    <string name="prefs_file">com.example.appstreaming.PREFERENCE_FILE_KEY</string>
+</resources>

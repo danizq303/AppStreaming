@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="inicio" />
+    <item android:title="series" />
+    <item android:title="peliculas" />
+    <item android:title="intantil" />
+    <item android:title="originals" />
+</menu>

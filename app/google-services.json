@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "30302775440",
+    "project_id": "appstreaming-27a25",
+    "storage_bucket": "appstreaming-27a25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30302775440:android:4a94b1d33801d96f601015",
+        "android_client_info": {
+          "package_name": "com.example.appstreaming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30302775440-7i1os7gbanqelks2lhmmn69hn9sgesu5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4bwzQrLZovN_PvnRJqZjWi1lnzuQpRZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30302775440-7i1os7gbanqelks2lhmmn69hn9sgesu5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
